@@ -1,6 +1,6 @@
 'use strict'
 
-alert("welcome to my first project")
+/*alert("welcome to my first project")
 
 let uesrname = prompt("can you tell us your name? ")
 
@@ -37,9 +37,23 @@ switch (hunterLover) {
         break;
     default:
         alert("you can't enter this Just yes or no ")
+}*/
 
+alert('welcome again to my site and ready to the gussing game so ltes start......')
+let startGame = prompt('now please if you want to start the game now Enter yes').toLowerCase
+
+if (startGame == 'yes') {
+    let firstQu = prompt('now you must Enter a number between  55 and 117')
+    for (let i = 0; i < 6; i++) {
+        if (firstQu !== 102) {
+
+
+        }
+    }
 }
-
+else {
+    alert('ok you are so welcome ')
+}
 
 
 
