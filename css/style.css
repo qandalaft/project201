@@ -1,41 +1,49 @@
-.intro{
-    background-color: blueviolet;
+.intro {
+  background-color: blueviolet;
 }
-.bottom_div{
-    position: static;
-	bottom: 0px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(164, 192, 86) ;
+.bottom_div {
+  position: static;
+  bottom: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(164, 192, 86);
 }
-.the_order_list{
-font-size: medium;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.the_order_list {
+  font-size: medium;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-a:link, a:visited {
-    background-color: #717deead;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
-  
-  a:hover, a:active {
-    background-color: rgba(8, 7, 77, 0.616);
-  }
-  .introt{
-      font-size: xx-large;
-  }
-  .edu{
-    position: static;
-	bottom: 0px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(43, 174, 214) ;
-  }
-  .exp{
-    position: static;
-	bottom: 0px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgba(224, 168, 14, 0.986) ; 
-  }
+a:link,
+a:visited {
+  background-color: #717deead;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover,
+a:active {
+  background-color: rgba(8, 7, 77, 0.616);
+}
+.introt {
+  font-size: xx-large;
+}
+.edu {
+  position: static;
+  bottom: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(43, 174, 214);
+}
+.exp {
+  position: static;
+  bottom: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgba(224, 168, 14, 0.986);
+}
+
+
