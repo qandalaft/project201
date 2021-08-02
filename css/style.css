@@ -39,5 +39,15 @@ a:active {
   background-color: rgb(43, 174, 214);
 }
 
-
-
+.exp {
+  position: static;
+  bottom: 0px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgba(224, 168, 14, 0.986);
+}
+h1{
+  font-size: xx-large;
+  color: aquamarine;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
